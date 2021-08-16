@@ -1,6 +1,6 @@
-# New Project
+# bce-sdk-js-demo
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ Baidu Cloud Engine JavaScript SDK Demo
 
 ## Available Scripts
 

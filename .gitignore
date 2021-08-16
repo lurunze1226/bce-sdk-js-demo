@@ -74,6 +74,7 @@ Thumbs.db
 /output
 /dist
 /dll
+/build
 
 .mockup/
 # vscode history
