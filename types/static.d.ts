@@ -32,6 +32,9 @@ declare module '*.styl';
 
 /* IMAGES */
 declare module '*.svg' {
+  import * as React from 'react';
+
+  export const ReactComponent: React.FunctionComponent<React.SVGProps<SVGSVGElement> & {title?: string}>
   const ref: string;
   export default ref;
 }

@@ -1,12 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Demo from './Demo';
+
+// import 'amis/lib/themes/default.css';
+import 'amis/lib/themes/antd.css';
+import 'amis/lib/themes/cxd.css';
+// import 'amis/lib/themes/dark.css';
+import 'amis/lib/helper.css';
+import 'font-awesome/css/font-awesome.css';
+
+import App from './App';
+import './style/style.css';
 
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Demo />
-  </React.StrictMode>,
+  <React.Fragment>
+    <App />
+  </React.Fragment>,
   document.getElementById('root'),
 );
 

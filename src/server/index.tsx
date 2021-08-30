@@ -5,6 +5,4 @@
  */
 
 
-import {BosClient} from '@baiducloud/sdk';
-
-console.log()
+// import {BosClient} from '@baiducloud/sdk';
